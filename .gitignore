@@ -8,5 +8,6 @@
 !.vscode/*.code-snippets
 .idea
 .mvn
+.vscode
 
 target
